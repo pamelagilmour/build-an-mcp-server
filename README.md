@@ -39,9 +39,7 @@ The response is rendered on the interface.
 
 ### Notes, quoted from the docs
 
-```
 Servers can connect to any client. We’ve chosen Claude for Desktop here for simplicity, but we also have guides on building your own client as well as a list of other clients here.
-```
 
 https://modelcontextprotocol.io/docs/develop/build-client
 
